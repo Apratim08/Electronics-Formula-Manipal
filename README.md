@@ -8,6 +8,3 @@ it provides insight to the driver about the performance of the vehicle. The FPGA
 The design choices were made to improve and deliver a more effective system than the pre-existing ones. All choices of controllers, sensors, formatting were custom made for the requirements of the team. 
 All programmable devices were coded individually to suit the system and the graphical user interface was designed internally. Data acquired by the proposed system helps in making sure that the car achieves the goals that were envisioned when it was designed.
 
-<a href="https://github.com/Apratim08/Formula-Manipal-Data-Acquisition-System/tree/CAN-Network-Codes">CAN Network Codes</a> <br />
-<a href="https://github.com/Apratim08/Formula-Manipal-Data-Acquisition-System/tree/Data-Analysis?tab=readme-ov-file"> Data Acquisition Analysis </a> <br />
-<a href="https://github.com/Apratim08/Formula-Manipal-Data-Acquisition-System/tree/PCB-Designs"> PCB Designs </a>
