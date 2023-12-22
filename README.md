@@ -7,3 +7,7 @@ affect the car’s performance, but was indispensable when it came to the testin
 it provides insight to the driver about the performance of the vehicle. The FPGA-based controller for CAN was designed for data acquisition and live telemetry system with the interest of the formula car team in mind. 
 The design choices were made to improve and deliver a more effective system than the pre-existing ones. All choices of controllers, sensors, formatting were custom made for the requirements of the team. 
 All programmable devices were coded individually to suit the system and the graphical user interface was designed internally. Data acquired by the proposed system helps in making sure that the car achieves the goals that were envisioned when it was designed.
+
+<a href="https://github.com/Apratim08/Formula-Manipal-Data-Acquisition-System/tree/CAN-Network-Codes">CAN Network Codes</a>
+<a href="https://github.com/Apratim08/Formula-Manipal-Data-Acquisition-System/tree/Daq-analysis"> Data Acquisition Analysis </a>
+<a href="https://github.com/Apratim08/Formula-Manipal-Data-Acquisition-System/tree/PCB-designs"> PCB Designs </a>
